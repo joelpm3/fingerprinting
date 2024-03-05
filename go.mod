@@ -1,4 +1,4 @@
-module github.com/gospider007/fp
+module github.com/joelpm3/fp
 
 go 1.21.3
 
