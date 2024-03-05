@@ -1,4 +1,4 @@
-module github.com/joelpm3/fp
+module github.com/joelpm3/fingerprinting
 
 go 1.21.3
 
